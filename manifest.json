@@ -14,7 +14,10 @@
       "js": ["scripts/content.js"],
       "matches": [
         "https://developer.chrome.com/docs/extensions/*",
-        "https://developer.chrome.com/docs/webstore/*"
+        "https://developer.chrome.com/docs/webstore/*",
+        "https://en.wikipedia.org/*",
+        "https://www.nutrition.org.uk/*",
+        "file:///Users/chinyelulyon/dev/reading-time/Test.html"
       ]
     }
   ]
